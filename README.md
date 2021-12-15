@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Alex Sandro Maziero Minto**
-- 👀 I’m interested in Java, Delphi (Pascal) and JavaScript
-- 🌱 I’m currently learning Javascript, NodeJS, ReactJS and graduating in *Analysis and Systems Development* at IFSP
+- 👀 I’m interested in Java, Delphi (Pascal), JavaScript and Google Firebase
+- 🌱 I’m currently learning JavaScript, TypeScript, NodeJS, ReactJS and graduating in *Analysis and Systems Development* at IFSP
 - 📫 How to reach me: by mail alexsmazierom@gmail.com
 
 <!---
